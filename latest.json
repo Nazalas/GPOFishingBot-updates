@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/Nazalas/GPOFishingBot-updates/releases/download/v0.1.0/GPOFishingBot-0.1.0.zip",
-  "sha256": "11564f2af49f03c7b5931ac6c1322a6183b7d685c20a68fdd2ead028b3d2eee9",
-  "size": 6429554,
-  "notes": ""
+  "version": "0.2.0",
+  "url": "https://github.com/Nazalas/GPOFishingBot-updates/releases/download/v0.2.0/GPOFishingBot-0.2.0.zip",
+  "sha256": "df85e25ea9da3e9cf7ab14025208103cc0874e5a0525a2d6a4d60a96be1464ce",
+  "size": 6426908,
+  "notes": "Proves an installed version can upgrade itself."
 }
