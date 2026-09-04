@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/Nazalas/GPOFishingBot-updates/releases/download/v0.2.0/GPOFishingBot-0.2.0.zip",
-  "sha256": "df85e25ea9da3e9cf7ab14025208103cc0874e5a0525a2d6a4d60a96be1464ce",
-  "size": 6426908,
-  "notes": "Proves an installed version can upgrade itself."
+  "version": "0.3.0",
+  "url": "https://github.com/Nazalas/GPOFishingBot-updates/releases/download/v0.3.0/GPOFishingBot-0.3.0.zip",
+  "sha256": "50682b31f58c3ae49f9a7bc92e8b1d980edf5e21e4e5dbb1ae4c025452991876",
+  "size": 59367028,
+  "notes": "Casts and clicks now land where they are aimed; the leftover modal is found by its three dots and actually dismissed."
 }
